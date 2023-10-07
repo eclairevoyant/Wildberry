@@ -400,7 +400,7 @@ color:#e7e4eb;
 }
 
 /* hide nitro gift button */
-.button-ejjZWC {
+.button-ejjZWC[aria-label="Send a gift"] {
   visibility: hidden;
 }
 

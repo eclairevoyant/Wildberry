@@ -25,7 +25,7 @@
     /* Scrollbar */
     --wildberry-scrollbar-track: var(--wildberry-primary);
     --wildberry-scrollbar-thumb: var(--wildberry-secondary-alt);
-    
+
 }
 html.theme-light::before {
     content: "This is a dark mode theme. Maybe find a good light mod e theme lol";
@@ -177,7 +177,7 @@ html.theme-light::before {
 /* Quote */
 .theme-dark .blockquoteContainer-U5TVEi {
     background-color: var(--background-tertiary);
-    
+
 }
 
 .theme-dark .blockquoteContainer-U5TVEi .blockquoteDivider-2hH8H6 {
@@ -288,7 +288,7 @@ color:#e7e4eb;
 }
 
 /* .theme-dark .powercord-codeblock-lang {
-   border-bottom: 1px solid var(--wildberry-less-hot); 
+   border-bottom: 1px solid var(--wildberry-less-hot);
   color: var(--background-mentioned-side);
 }  */
 
@@ -320,7 +320,7 @@ color:#e7e4eb;
 
 {
   color:#F19FFF;
-  
+
 }
 
 .hljs-keyword,

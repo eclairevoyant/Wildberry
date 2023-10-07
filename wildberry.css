@@ -14,6 +14,7 @@
     --wildberry-secondary: #350058;
     --wildberry-secondary-alt:#F40174;
     --wildberry-tertiary: #4c007c;
+    --wildberry-tertiary-alt:#430073;
     --wildberry-accent-color : #00ffb7;
     --wildberry-input-box: #350058;
     --wildberry-mention:  #97004c;
@@ -396,4 +397,15 @@ color:#e7e4eb;
 .hljs-keyword
 {
   font-weight:bold;
+}
+
+/* hide nitro gift button */
+.button-ejjZWC {
+  visibility: hidden;
+}
+
+/* user area bg */
+.panels-3wFtMD,
+.theme-dark .container-YkUktl {
+  background-color: var(--background-tertiary-alt);
 }

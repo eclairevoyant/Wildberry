@@ -409,3 +409,8 @@ color:#e7e4eb;
 .theme-dark .container-YkUktl {
   background-color: var(--background-tertiary-alt);
 }
+
+/* disable hello */
+.animation_a5361c {
+  visibility: hidden;
+};
